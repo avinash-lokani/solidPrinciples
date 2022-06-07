@@ -1,0 +1,24 @@
+
+«
+java:S1845C"Rename method "DeleteStudent" to prevent any misunderstanding/clash with method "deleteStudent" defined in superclass "com.badcode.SectionA".(´ÈÃî8ğ¡¥öı/
+B
+java:S1172",Remove this unused method parameter "CLASS".(³ªµ·
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç„Àïşÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(©ÇÅîúÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ãÕç€ÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(§¼ÿ ùÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Ç„Àïşÿÿÿÿ
+W
+java:S11612":Add the "@Override" annotation above this method signature(‡ªÑĞ8¢¥öı/
+L
+java:S26963"6Make the enclosing method "static" or remove this set.(ÔŠ˜
+L
+java:S2696<"6Make the enclosing method "static" or remove this set.(‰£×†
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(£§¯º
+c	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÈÃî
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ªµ·
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŞÛX
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Šìòù8š¢¥öı/
+[
+java:S1155+">Use isEmpty() to check whether the collection is empty or not.(Šìòù8›¢¥öı/

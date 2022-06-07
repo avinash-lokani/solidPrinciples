@@ -1,0 +1,7 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(З„Апюяяяя
+S	java:S106"9Replace this use of System.out or System.err by a logger.(гХзЂяяяяя
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§јя щяяяя
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Љмтщ8ЛЫХХы/
